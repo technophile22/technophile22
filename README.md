@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Raghav's github stats](https://github-readme-stats.vercel.app/api?username=technophile22&show_icons=true&hide_border=true&theme=dark)
+
+![](https://komarev.com/ghpvc/?username=technophile22&color=blue)
 <!--
 **technophile22/technophile22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
